@@ -1,0 +1,96 @@
+Shinyoung Ryu
+shinyoung.ryou@gmail.com
+
+Education
+Sep. 2013 ~
+Present
+
+Ajou University
+Department of Energy System Research
+Advisor: 이순일
+Ph.D. Student
+
+Suwon,
+Korea
+
+Sep. 2011 ~
+Aug. 2013
+
+Ajou University
+Department of Energy System Research
+Thesis: 폴리스티렌, 실리카 고형 구체를 이용한 마이크로 패턴 제작 = Micro
+patterning using Polystyrene and Silica micro beads
+Advisor: 이순일
+M.S. in Energy System Research
+
+Suwon,
+Korea
+
+Mar. 2000 ~
+Aug. 2006
+
+Ajou University
+Department of Physics
+B.S. in Physics
+
+Suwon,
+Korea
+
+Research Interests
+Solar cell
+OLED
+Electrical simulation
+Optical simulation
+numerical solution of differential equation through computing power
+
+Publications (SCIE/ESCI)
+1. Shinyoung Ryu, Na Young Ha, Y. H. Ahn, Ji-Yong Park, Soonil Lee, "Light intensity dependence of
+organic solar cell operation and dominance switching between Shockley-Read-Hall and
+bimolecular recombination losses.", SCIENTIFIC REPORTS, (2021)
+2. Huu Tuan Nguyen, Shin Young Ryu, Anh Tuan Duong, Soonil Lee, "Suppression of non-radiative
+recombination to improve performance of colloidal quantum-dot LEDs with a Cs 2 CO 3 solution
+treatment.", NANOTECHNOLOGY, (2021)
+3. Shinyoung Ryu, Duc Cuong Nguyen, Na Young Ha, Hui Joon Park, Yeong Hwan Ahn, Ji Yong
+Park, Soonil Lee, "Author Correction: Light Intensity-dependent Variation in Defect
+Contributions to Charge Transport and Recombination in a Planar MAPbI 3 Perovskite Solar
+Cell", SCIENTIFIC REPORTS, (2020)
+4. Huu Tuan Nguyen, Shin Young Ryu, Anh Tuan Duong, Soonil Lee, "Effects of 1,2-ethanedithiol
+
+concentration on performance improvement of quantum-dot LEDs", RSC ADVANCES, (2019)
+5. Huu Tuan Nguyen, Shin Young Ryu, Anh Tuan Duong, Soonil Lee, "Impact of 1,2-ethanedithiol
+treatment on luminescence and charge-transport characteristics in colloidal quantum-dot
+LEDs.", NANOTECHNOLOGY, (2019)
+6. Kwanbyung Chae, Nguyen Duc Cuong, Shinyoung Ryu, Dong-Il Yeom, Yeong Hwan Ahn, Soonil
+Lee, Ji Yong Park, "Electrical properties of ion gels based on PVDF-HFP applicable as gate stacks
+for flexible devices", CURRENT APPLIED PHYSICS, (2018)
+7. Sung-yoon Joe, Shinyoung Ryu, Duc Cuong Nguyen, Jong Hyuk Yim, Huiseong Jeong, Na Young
+Ha, Yeong Hwan Ahn, Ji Yong Park, Soonil Lee, "Contributions of poly(3-hexylthiophene)
+nanowires to alteration of vertical inhomogeneity of bulk-heterojunction active layers and
+improvements of light-harvesting and power-conversion efficiency of organic solar cells",
+ORGANIC ELECTRONICS, (2017)
+8. Kyungtaek Min, Muhammad Umar, Shinyoung Ryu, Soonil Lee, Sunghwan Kim, "Silk protein as a
+new optically transparent adhesion layer for an ultra-smooth sub-10 nm gold layer",
+NANOTECHNOLOGY, (2017)
+9. Jong Hyuk Yim, Sung-yoon Joe, Duc Cuong Nguyen, Shin Young Ryu, Na Young Ha, Yeong Hwan
+Ahn, Ji Yong Park, Soonil Lee, "True nature of active layers in organic solar cells fabricated by
+sequential casting of donor and acceptor layers", PHYSICA STATUS SOLIDI-RAPID RESEARCH
+LETTERS, (2017)
+10. Hyunsoo Kwon, Shinyoung Ryu, Soonil Lee, Sunghwan Kim, "A fully biocompatible poly(ethylene
+glycol)–gold plasmonic crystal for optical sensing", OPTICAL MATERIALS, (2015)
+11. Sung-yoon Joe, Jong Hyuk Yim, Shin Young Ryu, Na Young Ha, Yeong Hwan Ahn, Ji Yong Park,
+Soonil Lee, "Universal Efficiency Improvement in Organic Solar Cells Based on a Poly(3‐
+hexylthiophene) Donor and an Indene‐C60 Bisadduct Acceptor with Additional Donor
+Nanowires", CHEMPHYSCHEM, (2015)
+12. Sang Yong Kim, Shin Young Ryu, Na Young Ha, Y. H. Ahn, Ji-yong Park, Soonil Lee, "Facile
+fabrication of mesoporous photoanodes for dye-sensitized solar cells by microwave sintering of
+binder-free TiO 2 paste", JOURNAL OF PHYSICS D, (2018)
+
+Skillsand Techniques
+Numerical simulation using FDTD('Lumerical'), RCWA('RSOFT') method.
+Numerical & symbolic calculation of differential equation ('Matlab, Python, Mathemetica')
+Fabrication and characterization of Organic solar cell & OLED
+Dispersion of CNT and Graphene Oxide
+Fabrication and characterization of transparent electrode
+Control & managing experience in various kind of deposition instrument ('E-beam, Thermal evaporator,
+Sputter system, Spin-coating, Dr.blade')
+Managing & repairing experience in various kind of vacuum system.
